@@ -1,0 +1,83 @@
+   body{
+	color:black;
+	background-color: #F5E8D7;
+	font-family: arial;
+	padding: 0px 270px;
+
+}
+
+h1{
+	font-size:52px;
+	display: block;
+	margin: 0px auto;
+}
+
+.header{
+		background-image:url("/Users/Matthew/Downloads/ISNA-Convention (1).jpg");
+		color: white;
+		margin: 0px auto;
+		height: 460px;
+		font-family:arial;
+		font-size:52px;
+		background-size: cover;
+		text-align: center;
+		text-decoration-line: black;
+		text-shadow:
+    /* Outline 1 */
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000,  
+    -2px 0 0 #000000,
+    2px 0 0 #000000,
+    0 2px 0 #000000,
+    0 -2px 0 #000000, 
+    /* Outline 2 */
+    -2px -2px 0 #000000,
+    2px -2px 0 #000000,
+    -2px 2px 0 #000000,
+    2px 2px 0 #000000,  
+    -3px 0 0 #000000,
+    3px 0 0 #000000,
+    0 3px 0 #000000,
+    0 -3px 0 #000000;
+
+}
+
+hr{
+	font-size:14px
+	font-style:italic;
+}
+
+h2{
+	font-size:24px;
+	display: block;
+	margin: 0px auto;
+}
+
+
+
+div.pic{
+	margin: 0px auto;
+	display: block;
+	width:500px
+	height:500px;
+	text-align: center;
+}
+
+
+
+.footer img{
+	width:80px;
+	height:75px;
+}
+
+.footer{
+	font-style:italic;
+	font-size: 14px;
+}
+
+.name {
+	font-style: italic;
+}
+
